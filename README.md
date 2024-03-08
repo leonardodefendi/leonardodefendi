@@ -4,7 +4,7 @@
 
 Tecnologias e linguagens usadas no momento:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,node,git,linux,vscode)](https://skillicons.dev)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodefendi)](https://github.com/leonardodefendi/github-readme-stats)
  
