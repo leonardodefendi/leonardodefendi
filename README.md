@@ -1,6 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-defendi-prado-337275189/)
 
 ![leonardodefendi GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardodefendi&show_icons=true&theme=tokyonight)
+
 Tecnologias e linguagens usadas no momento:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,linux,vscode)](https://skillicons.dev)
 <br/>
